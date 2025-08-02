@@ -1,0 +1,6 @@
+product_id,name,price,rating,sales,seller_id,category_id
+1001,Wireless Headphones,25.99,4.5,1500,5001,301
+1002,Bluetooth Speaker,18.50,4.2,980,5002,302
+1003,Phone Charger,8.99,4.0,3200,5003,303
+1004,Yoga Mat,15.75,4.7,2100,5004,304
+1005,Water Bottle,12.49,4.3,4500,5005,305
